@@ -1,2 +1,2 @@
 My first score day
-correct my own
+Updated Readme
